@@ -1,4 +1,4 @@
-gem install rails_12factorclass ArticlesController < ApplicationController
+class ArticlesController < ApplicationController
   before_action :set_article, only: [:show, :edit, :update, :destroy]
 
   # GET /articles
