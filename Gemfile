@@ -6,7 +6,7 @@ gem 'rails', '4.2.6'
 gem 'rb-readline'
 gem 'autoprefixer-rails', '~> 7.1', '>= 7.1.2.3'
 # Use sqlite3 as the database for Active Record
-
+gem 'bcrypt', '~> 3.1.7'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '~> 5.0'
